@@ -118,8 +118,8 @@
                 year: 2019,
                 month: 6,
                 day: 8,
-                hours: 11.5,
-                minutes: 0,
+                hours: 11,
+                minutes: 30,
                 seconds: 0,
                 words: {
                     days: 'day',
