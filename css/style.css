@@ -14,11 +14,14 @@
          url('laylantia-webfont.woff') format('woff'),
          url('laylantia-webfont.ttf') format('truetype'),
          url('laylantia-webfont.svg#laylantiaregular') format('svg');
-		 url('laylantia.otf') format('otf');
     font-weight: normal;
     font-style: normal;
 
 }
+
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+
 
 /* =======================================================
 *
@@ -62,7 +65,8 @@ p, ul, ol {
 h1, h2, h3, h4, h5, h6 {
   color: #5a5a5a;
  /* font-family: "Montez", cursive; */
-  font-family: "laylantiaregular", cursive;
+ /* font-family: "laylantiaregular", cursive; */
+  font-family: 'Dancing Script', cursive;
   font-weight: 400;
   margin: 0 0 30px 0;
 }
