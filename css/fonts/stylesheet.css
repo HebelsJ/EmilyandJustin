@@ -4,8 +4,12 @@
 
 @font-face {
     font-family: 'laylantiaregular';
-    src: url('laylantia-webfont.woff2') format('woff2'),
-         url('laylantia-webfont.woff') format('woff');
+    src: url('laylantia-webfont.eot');
+    src: url('laylantia-webfont.eot?#iefix') format('embedded-opentype'),
+         url('laylantia-webfont.woff2') format('woff2'),
+         url('laylantia-webfont.woff') format('woff'),
+         url('laylantia-webfont.ttf') format('truetype'),
+         url('laylantia-webfont.svg#laylantiaregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
